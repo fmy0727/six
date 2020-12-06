@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">six</string>
+    <string name="btn_name">跳转</string>
+    <string name="vp_1_name">1</string>
+    <string name="vp_2_name">2</string>
+    <string name="vp_3_name">3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
